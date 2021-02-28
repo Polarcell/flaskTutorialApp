@@ -1,0 +1,7 @@
+1. For the first time:
+  python3 -m venv venv
+2. Activate the environment
+     source venv/bin/active
+  To deactivate
+     deactivate
+
